@@ -1,5 +1,8 @@
 # Windows Setup, Privacy & Cleanup Guides
 
+![Fuck MICROSLOP](https://c.tenor.com/dmUPx0eFh4AAAAAd/tenor.gif)
+
+
 A collection of practical, step-by-step markdown guides for setting up, tightening, and cleaning a Windows 10/11 PC. Each guide is self-contained, written to be read top to bottom or used as a reference, and includes troubleshooting and a quick-reference section.
 
 ## What's Inside
