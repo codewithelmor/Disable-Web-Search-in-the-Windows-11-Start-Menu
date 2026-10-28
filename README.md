@@ -13,6 +13,7 @@ A collection of practical, step-by-step markdown guides for setting up, tighteni
 | [Windows 11 Local Account Install Guide](Windows-11-Local-Account-Install-Guide.md) | Installing Windows 11 without a Microsoft account using `start ms-cxh:localonly`, plus fallbacks (registry `BypassNRO`, Rufus media, `autounattend.xml`, switching accounts after setup) | Clean installs and fresh PCs |
 | [O&O ShutUp10 Guide](OO-ShutUp10-Guide.md) | Using the free O&O ShutUp10 privacy tool: settings categories, recommended workflow, profile export/import, command-line deployment, Free vs. Premium | Hardening Windows privacy settings in one place |
 | [Revo Uninstaller Guide](Revo-Uninstaller-Guide.md) | Removing programs and their leftovers with Revo Uninstaller Free and Pro: scan modes, Hunter Mode, Forced Uninstall, backups and recovery | Thorough software removal and cleanup |
+| [Restore Classic Context Menu Windows 11](Restore-Classic-Context-Menu-Windows-11.md) | Restoring the classic (legacy) right-click context menu in Windows 11 using a per-user registry tweak, including the Quick Start commands, manual Registry Editor steps, a PowerShell script, how to revert, and multi-machine deployment | Home users and IT admins who are tired of clicking “Show more options” and want the full menu by default, without elevation or third-party tools |
 
 ## Suggested Order
 
@@ -55,6 +56,7 @@ Last reviewed: October 2026.
 ├── Disable-Web-Search-Windows-11-Start-Menu.md
 ├── Windows-11-Local-Account-Install-Guide.md
 ├── OO-ShutUp10-Guide.md
+├── Restore-Classic-Context-Menu-Windows-11.md
 └── Revo-Uninstaller-Guide.md
 ```
 
